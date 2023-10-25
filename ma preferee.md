@@ -1,6 +1,6 @@
 ---
 title: "Ma préférée"
-order: 2
+order: 4
 ---
 Ma préférée c'est <strong>PICHE</strong>
 
